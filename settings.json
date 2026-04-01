@@ -5,10 +5,11 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
+  "server": Vanna168KSK
+    "ip": "Vanna168KSK.aternos.me",
     "port": 27586,
-    "version": "",
+    "version": "1.21
+  ",
     "try-creative": false
   },
   "position": {
